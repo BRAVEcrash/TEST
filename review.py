@@ -1,0 +1,5 @@
+word = ('baiysh, baiii, yshh')
+print(word.count('a'))
+print(word.find('a'))
+gg = (word.split(', '))
+print(gg[2])
