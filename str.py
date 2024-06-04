@@ -1,7 +1,7 @@
 # s= input('문자열을 입력해하시오')
 # a= s.split()
 # print(a)
-'''import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 
 # Define theta
@@ -24,4 +24,4 @@ ax.plot([np.pi/6, 5*np.pi/6], [1/2, 1/2], 'ro') # Intersection points
 plt.legend()
 
 # Display plot
-plt.show()'''
+plt.show()
