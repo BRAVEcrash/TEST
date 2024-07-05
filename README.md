@@ -1,2 +1,2 @@
-> [!CAUTION]
+> [!WORNING]
 > HERE JUST MY TRASH
